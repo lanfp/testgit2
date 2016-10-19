@@ -2,3 +2,6 @@
 .buildpath
 .project
 .settings
+
+# composer vendor dir
+/vendor
